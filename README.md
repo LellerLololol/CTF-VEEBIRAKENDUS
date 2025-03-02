@@ -6,6 +6,8 @@ This project is a submission to TalTech's ASI KARIKAS 2025 competition (https://
 
 This is a vulnerable web application designed to help computer science enthuasiasts learn about potential security flaws in web applications. The goal is to provide an interactive educational experience that highlights various vulnerabilities commonly found in web apps.
 
+UPDATE: Our submission has made it to the final round, and we’ve been invited to compete on March 15th at TTÜ's Mektory!
+
 ### Purpose
 
 The application consists of multiple security vulnerabilities (seven to be exact) that users must find. The flags represent various attack vectors that are designed to you understand how to find and exploit vulnerabilities.
