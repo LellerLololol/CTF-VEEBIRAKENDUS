@@ -1,8 +1,8 @@
 # Capture the Flag (CTF) Web Application
 
 ## ⚠️ Repository Deprecated ⚠️
-This repository is no longer maintained. The latest version is now available at:  
-👉 [CTF](https://github.com/PixelsJr/CTF) 👈  
+This repository is no longer maintained. The latest version is now available at: [CTF](https://github.com/PixelsJr/CTF) 
+
 [![CTF](https://img.shields.io/badge/Repository-Moved-blue)](https://github.com/PixelsJr/CTF)
 
 ## Overview
