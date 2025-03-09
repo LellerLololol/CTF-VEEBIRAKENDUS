@@ -1,5 +1,10 @@
 # Capture the Flag (CTF) Web Application
 
+## ⚠️ Repository Deprecated ⚠️
+This repository is no longer maintained. The latest version is now available at:  
+👉 [CTF](https://github.com/PixelsJr/CTF) 👈  
+[![CTF](https://img.shields.io/badge/Repository-Moved-blue)](https://github.com/PixelsJr/CTF)
+
 ## Overview
 
 This project is a submission to TalTech's ASI KARIKAS 2025 competition (https://asikarikas.ee/).
